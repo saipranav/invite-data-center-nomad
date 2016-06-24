@@ -8,7 +8,7 @@ job "person" {
 
   group "person-service" {
 
-    count = 2
+    count = 3
 
     restart {
       interval = "5m"

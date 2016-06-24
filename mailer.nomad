@@ -26,7 +26,7 @@ job "mailer" {
 
       env {
         MAIL_AUTH_USERNAME = "saipranav_r@listertechnologies.com"
-        MAIL_AUTH_PASSWORD = "XXXXXXXX"
+        MAIL_AUTH_PASSWORD = "Welcome@123"
         ROOT_TO_BOOK = "daffodil@listertechnologies.com"
       }
 
